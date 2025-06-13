@@ -1,0 +1,7 @@
+gradio==4.0.0
+torch==2.1.2
+diffusers
+transformers
+scipy
+spaces
+python-dotenv
